@@ -1,4 +1,4 @@
-# 🚀 Panduan Instalasi Web Rumah Laundry
+# 🚀 Panduan Instalasi Web Rumah Laundry 🚀
 
 Langkah 1: Persiapan Awal
 
