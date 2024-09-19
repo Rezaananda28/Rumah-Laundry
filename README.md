@@ -1,7 +1,6 @@
 # 🚀 Panduan Instalasi Web Rumah Laundry 🚀
 
 Langkah 1: Persiapan Awal
-
 - 📥 Unduh file instalasi dari repositori ini di GitHub 
    [er4files](https://github.com/er4files/Rumah-Laundry-Aplikasi-Web).
 - 📂 Ekstrak file zip yang telah diunduh ke dalam satu folder. 
@@ -9,12 +8,10 @@ Langkah 1: Persiapan Awal
 - 📁 Pindahkan folder "rumah_laundry" ke dalam direktori xampp/htdocs/.
 
 Langkah 2: Aktivasi Server Web
-
 1. 🚀 Aktifkan server web menggunakan platform seperti LAMP, XAMPP, WAMPP, dsb.
 2. 💡 Nyalakan layanan Apache dan MySQL.
 
 Langkah 3: Pengaturan Database
-
 1. 🌐 Buka web browser dan ketikkan localhost/phpmyadmin pada address bar.
 2. 🛠️ Buat database baru dengan nama "laundry_app".
 3. 🔍 Pilih database "laundry_app" setelah dibuat.
@@ -23,7 +20,6 @@ Langkah 3: Pengaturan Database
    dan klik tombol "Kirim/Go" (scroll ke bawah).
 
 Langkah 4: Instalasi Aplikasi
-
 1. 🌐 Buka tab baru pada web browser dan ketikkan localhost/rumah_laundry/.
 2. 🔧 Ikuti petunjuk untuk mengisi informasi login.
 
