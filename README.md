@@ -27,4 +27,4 @@ Informasi Login:
 - 👤 Username: admin
 - 🔐 Password: admin
 
-Selamat, Anda Telah Sukses Menginstal Aplikasi Rumah Laundry! 🎉
+Selamat, Anda Telah Sukses Menginstal Aplikasi Rumah Laundry!🎉
